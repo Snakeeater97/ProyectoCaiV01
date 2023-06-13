@@ -1,0 +1,554 @@
+﻿[
+  {
+    "CodVuelo": "V-1",
+    "Origen": "Buenos Aires",
+    "Destino": "Londres",
+    "Aerolinea": "Amerina Airlines",
+    "FechaHoraArribo": "2023-06-01 06:00:00",
+    "TiempoDeVuelo": "01:00:00",
+    "Tarifa": [
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 153050
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 146520
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 110000
+      },
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 250000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 10,
+        "Precio": 190000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 140000
+      }
+    ]
+  },
+  {
+    "CodVuelo": "V-2",
+    "Origen": "Buenos Aires",
+    "Destino": "Madrid",
+    "Aerolinea": "Amerina Airlines",
+    "FechaHoraArribo": "2023-06-01 11:00:00",
+    "TiempoDeVuelo": "03:00:00",
+    "Tarifa": [
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 185000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 155000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 115000
+      },
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 300000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 10,
+        "Precio": 350000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 270000
+      }
+    ]
+  },
+  {
+    "CodVuelo": "V-3",
+    "Origen": "Buenos Aires",
+    "Destino": "Barcelona",
+    "Aerolinea": "Amerina Airlines",
+    "FechaHoraArribo": "2023-06-02 06:00:00",
+    "TiempoDeVuelo": "01:00:00",
+    "Tarifa": [
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 140000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 110000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 85000
+      },
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 200000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 10,
+        "Precio": 180000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 130000
+      }
+    ]
+  },
+  {
+    "CodVuelo": "V-4",
+    "Origen": "Buenos Aires",
+    "Destino": "Tokyo",
+    "Aerolinea": "Turkish Airlines",
+    "FechaHoraArribo": "2023-06-03 17:00:00",
+    "TiempoDeVuelo": "03:00:00",
+    "Tarifa": [
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 300000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 250000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 230000
+      },
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 350000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 300000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 280000
+      }
+    ]
+  },
+  {
+    "CodVuelo": "V-5",
+    "Origen": "Buenos Aires",
+    "Destino": "Australia",
+    "Aerolinea": "Turkish Airlines",
+    "FechaHoraArribo": "2023-06-04 08:00:00",
+    "TiempoDeVuelo": "05:00:00",
+    "Tarifa": [
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 295000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 275000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 255000
+      },
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 380000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 345000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 300000
+      }
+    ]
+  },
+  {
+    "CodVuelo": "V-6",
+    "Origen": "Buenos Aires",
+    "Destino": "Miami",
+    "Aerolinea": "American Airlines",
+    "FechaHoraArribo": "2023-06-04 09:00:00",
+    "TiempoDeVuelo": "04:00:00",
+    "Tarifa": [
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 130000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 100000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 85000
+      },
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 190000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 150000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 105000
+      }
+    ]
+  },
+  {
+    "CodVuelo": "V-7",
+    "Origen": "Londres",
+    "Destino": "Buenos Aires",
+    "Aerolinea": "American Airlines",
+    "FechaHoraArribo": "2023-07-01 08:00:00",
+    "TiempoDeVuelo": "05:00:00",
+    "Tarifa": [
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 170000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 140000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 110000
+      },
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 210000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 175000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 140000
+      }
+    ]
+  },
+  {
+    "CodVuelo": "V-8",
+    "Origen": "Madrid",
+    "Destino": "Buenos Aires",
+    "Aerolinea": "American Airlines",
+    "FechaHoraArribo": "2023-07-01 16:00:00",
+    "TiempoDeVuelo": "06:00:00",
+    "Tarifa": [
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 200000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 165000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 135000
+      },
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 250000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 210000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 185000
+      }
+    ]
+  },
+  {
+    "CodVuelo": "V-9",
+    "Origen": "Barcelona",
+    "Destino": "Buenos Aires",
+    "Aerolinea": "American Airlines",
+    "FechaHoraArribo": "2023-07-02 10:00:00",
+    "TiempoDeVuelo": "05:00:00",
+    "Tarifa": [
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 195000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 175000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 135000
+      },
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 275000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 245000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 215000
+      }
+    ]
+  },
+  {
+    "CodVuelo": "V-10",
+    "Origen": "Tokyo",
+    "Destino": "Buenos Aires",
+    "Aerolinea": "Turkish Airlines",
+    "FechaHoraArribo": "2023-07-03 15:00:00",
+    "TiempoDeVuelo": "08:00:00",
+    "Tarifa": [
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 280000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 240000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 210000
+      },
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 370000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 340000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 310000
+      }
+    ]
+  },
+  {
+    "CodVuelo": "V-11",
+    "Origen": "Australia",
+    "Destino": "Buenos Aires",
+    "Aerolinea": "Turkish Airlines",
+    "FechaHoraArribo": "2023-07-04 06:00:00",
+    "TiempoDeVuelo": "05:00:00",
+    "Tarifa": [
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 260000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 230000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 200000
+      },
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 310000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 280000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 240000
+      }
+    ]
+  },
+  {
+    "CodVuelo": "V-12",
+    "Origen": "Miami",
+    "Destino": "Buenos Aires",
+    "Aerolinea": "American Airlines",
+    "FechaHoraArribo": "2023-07-05 20:00:00",
+    "TiempoDeVuelo": "05:00:00",
+    "Tarifa": [
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 150000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 10,
+        "Precio": 120000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 90000
+      },
+      {
+        "TipoPasajero": "Adulto",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 200000
+      },
+      {
+        "TipoPasajero": "Menor",
+        "ClaseVuelo": "Business",
+        "DisponibilidadVuelo": 5,
+        "Precio": 170000
+      },
+      {
+        "TipoPasajero": "Infante",
+        "ClaseVuelo": "Económico",
+        "DisponibilidadVuelo": 5,
+        "Precio": 130000
+      }
+    ]
+  }
+]
