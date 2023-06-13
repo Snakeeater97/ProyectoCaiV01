@@ -11,7 +11,7 @@
         "TipoPasajero": "Adulto",
         "ClaseVuelo": "Económico",
         "DisponibilidadVuelo": 10,
-        "Precio": 153050
+        "Precio": 153000
       },
       {
         "TipoPasajero": "Menor",
