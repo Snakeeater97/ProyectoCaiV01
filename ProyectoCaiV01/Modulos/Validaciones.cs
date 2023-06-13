@@ -9,6 +9,6 @@ namespace ProyectoCaiV01.Modulos
 {
     internal class Validaciones
     {
-        static List<Vuelo> TEST;
+        
     } 
 }
