@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ProyectoCaiV01.Modulos
 {
-    internal class ModuloPresupuesto
+    public class ModuloPresupuesto
     {
+
+        public void VerPresupuestoActual()
+        {
+        }
     }
 }

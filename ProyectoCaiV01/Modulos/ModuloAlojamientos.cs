@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ProyectoCaiV01.Modulos
 {
-    internal class ModuloAlojamientos
+    public class ModuloAlojamientos
     {
+        public void ConsultarInventarioHoteleria()
+        {
+
+        }
     }
 }

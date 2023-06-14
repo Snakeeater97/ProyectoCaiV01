@@ -56,11 +56,11 @@
     <Compile Include="Entidades\Presupuesto.cs" />
     <Compile Include="Entidades\Tarifa.cs" />
     <Compile Include="Entidades\Vuelo.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="MenuVentas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="MenuVentas.Designer.cs">
+      <DependentUpon>MenuVentas.cs</DependentUpon>
     </Compile>
     <Compile Include="Modulos\ModuloAlojamientos.cs" />
     <Compile Include="Modulos\ModuloPresupuesto.cs" />
@@ -68,6 +68,9 @@
     <Compile Include="Modulos\Validaciones.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="MenuVentas.resx">
+      <DependentUpon>MenuVentas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
